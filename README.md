@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Marcos!
 
-<!--
-**marcostunga/marcostunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** e apaixonado por **Cloud Computing**, **DevOps**.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo:
+- Python, Java e C
+- Docker, Linux, Git & GitHub
+- Cloud (AWS, GCP)
+- SQL e NoSQL
+- Inteligência Artificial & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em andamento:
+- Sistema de Gestão Escolar (SPApro)
+- Site para Igreja Monte Carmelo do Kicolo
+- Gerenciador de Tarefas em Python
+
+## Objetivos:
+- Tornar-me um engenheiro de Dados e ML
+- Trabalhar remotamente na área de tecnologia
+- Ser um exemplo de superação e excelência!
+
+---
+
+**“O sucesso é a soma de pequenos esforços repetidos dia após dia.”**
