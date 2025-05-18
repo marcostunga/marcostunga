@@ -15,7 +15,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por **Cloud Computing
 - Gerenciador de Tarefas em Python
 
 ## Objetivos:
-- Tornar-me um engenheiro de Dados e ML
+- Tornar-me um engenheiro de Cloud e ML
 - Trabalhar remotamente na área de tecnologia
 - Ser um exemplo de superação e excelência!
 
